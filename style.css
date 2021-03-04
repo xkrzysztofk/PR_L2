@@ -1,0 +1,42 @@
+body {
+    background-color: pink;
+}
+
+p {
+    font-size: 20px;
+}
+
+.lewy {
+    float: left;
+    width: 50%;
+}
+
+.prawy {
+    width: 50%;
+    float: right;
+}
+
+ul li {
+    display: inline;
+}
+
+
+.zmiana {
+    width: 30px;
+    height: 30px;
+    background-color: red;
+}
+
+.zmiana:hover {
+    background-color: yellow;
+}
+
+
+#id {
+
+}
+
+.img {
+    width: 100px;
+    height: auto;
+}
