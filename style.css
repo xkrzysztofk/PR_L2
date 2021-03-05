@@ -1,12 +1,14 @@
 body{
     background-color: darkorange;
 }
-.first{
+.main{
     margin:20px;
-    background-color: darkorange;
-}
-.cos{
-    margin:100px;
-    justify-content: flex-end;
     width:50%;
+    justify-content: flex-end;
+}
+.leg_div{
+    margin-bottom:20px;
+}
+button{
+    justify-content: center;
 }
